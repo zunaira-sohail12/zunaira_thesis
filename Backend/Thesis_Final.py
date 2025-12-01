@@ -223,9 +223,9 @@ class Thesis:
     def send_email(self,sender,subject,body):
     
 # Define email sender and receiver
-        email_sender = 'adilubit@gmail.com'
+        email_sender = 'zunairapak.1998@gmail.com'
         email_password = 'zboy hqny zbkt hcpc'
-        email_receiver = 'adil_abdullah@hotmail.com'
+        email_receiver = 'zunairapak.1998@gmail.com'
 
 # Set the subject and body of the email
         try:
